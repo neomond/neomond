@@ -1,5 +1,5 @@
-<h1 align="center">Hi ✨, I'm Nazrin ( Nini )</h1>
-<h3 align="center">Mobile developer</h3>
+<h1 align="center">Hi ✨, I'm Nazrin</h1> 
+<h3 align="center">iOS developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neomond&label=Profile%20views&color=0e75b6&style=flat" alt="neomond" /> </p>
 
