@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✨, I'm Nazrin</h1> 
-<h4 align="center">Full-stack / Mobile developer</h4>
+<h4 align="center">Mobile developer</h4>
 
 
 
