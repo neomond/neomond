@@ -1,18 +1,5 @@
-<img src="banner.svg" alt="Nazrin Atayeva: iOS engineer building AI and perception systems" width="100%"/>
-<h4 align="center">iOS engineer with 3+ years shipping production banking and telecom apps, and an MSc in AI for Engineering from the University of Sheffield. I work across three layers of an intelligent product: the app people use, the agent that reasons, and the model that sees.</h4>
-
+<img src="banner.svg" alt="Nazrin Atayeva: iOS engineer building AI and perception systems" width="100%"/> <p align="center"> <b>iOS engineer</b> with 3+ years shipping production banking &amp; telecom apps<br> <b>MSc AI for Engineering</b> · University of Sheffield </p> <p align="center"><i>I work across three layers of an intelligent product:</i></p> <table align="center"> <tr> <td align="center" width="33%">🟣<br><b>The app people use</b><br><sub>iOS · 1M+ users · zero rollbacks</sub></td> <td align="center" width="33%">🟢<br><b>The agent that reasons</b><br><sub>LLM agents · tools · guardrails</sub></td> <td align="center" width="33%">🟡<br><b>The model that sees</b><br><sub>3D perception · sensor fusion · Visual Geometry on ADAS</sub></td> </tr> </table>
 <br>
-<h3>🔬 Perception & Computer Vision</h3>
-
-<table>
-  <tr>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a></td>
-    <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/></a></td>
-    <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/></a></td>
-    <td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/></a></td>
-    <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="30" height="30"/></a></td>
-  </tr>
-</table>
 
 <h3>📱 Mobile Development</h3>
 
@@ -25,6 +12,11 @@
     <td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a></td>
   </tr>
 </table>
+
+<h3>🤖 AI Agents</h3> <table> <tr> <td><b>Core</b></td> <td> <table><tr><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30"/></td><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="30" height="30"/></td><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="30" height="30"/></td><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL + pgvector" title="PostgreSQL + pgvector" width="30" height="30"/></td><td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry" title="OpenTelemetry" width="30" height="30"/></td></tr></table> </td> </tr> <tr> <td><b>Models &amp; APIs</b></td> <td><code>OpenAI API</code> <code>Anthropic API</code> <code>Gemini API</code> <code>Ollama</code> <code>Hugging Face</code> <code>LiteLLM</code> <code>vLLM</code></td> </tr> <tr> <td><b>Agent frameworks</b></td> <td><code>LangGraph</code> <code>LangChain</code> <code>LlamaIndex</code> <code>MCP</code> <code>Pydantic</code> <code>Instructor</code> <code>function calling</code></td> </tr> <tr> <td><b>RAG</b></td> <td><code>pgvector</code> <code>Qdrant</code> <code>FAISS</code> <code>sentence-transformers</code> <code>reranking</code></td> </tr> <tr> <td><b>Evals &amp; observability</b></td> <td><code>Ragas</code> <code>DeepEval</code> <code>LLM-as-a-judge</code> <code>Langfuse</code> <code>LangSmith</code></td> </tr> <tr> <td><b>Safety</b></td> <td><code>prompt-injection &amp; PII guardrails</code> <code>prompt versioning</code></td> </tr> </table>
+
+<h3>🟡 Perception & Computer Vision</h3> <table> <tr> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="30" height="30"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="30" height="30"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="30" height="30"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="30" height="30"/></td> </tr> </table>
+
 
 <h3>🛠️ Tools & Infrastructure</h3>
 
