@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1b1f27" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b0d11" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0b0d11" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0b0d11" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="#0b0d11"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <!-- racing line -->
+  <path d="M640 250 C 720 250, 740 120, 820 110 S 930 200, 990 150 S 1080 50, 1150 70"
+        fill="none" stroke="#2a303b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M640 250 C 720 250, 740 120, 820 110" fill="none" stroke="#b56cff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M820 110 S 930 200, 990 150" fill="none" stroke="#2ee07a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M990 150 S 1080 50, 1150 70" fill="none" stroke="#f5c518" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1150" cy="70" r="7" fill="#ffffff"/>
+  <rect width="760" height="320" fill="url(#fade)"/>
+  <!-- text -->
+  <text x="56" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#ff3b30">● LIVE · ENGINEER PROFILE</text>
+  <text x="56" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="1" fill="#f3f4f6">NAZRIN ATAYEVA</text>
+  <text x="56" y="182" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9aa3b2">iOS engineer building AI &amp; perception systems</text>
+  <!-- sectors -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.5">
+    <rect x="56"  y="232" width="180" height="6" rx="3" fill="#b56cff"/>
+    <text x="56"  y="266" fill="#b56cff">S1</text><text x="84"  y="266" fill="#d6d9df">iOS · MOBILE</text>
+    <rect x="252" y="232" width="180" height="6" rx="3" fill="#2ee07a"/>
+    <text x="252" y="266" fill="#2ee07a">S2</text><text x="280" y="266" fill="#d6d9df">AI · AGENTS</text>
+    <rect x="448" y="232" width="180" height="6" rx="3" fill="#f5c518"/>
+    <text x="448" y="266" fill="#f5c518">S3</text><text x="476" y="266" fill="#d6d9df">PERCEPTION</text>
+  </g>
+</svg>
