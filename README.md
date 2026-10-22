@@ -1,5 +1,5 @@
-<h1 align="center">Hi ✨, I'm Nazrin</h1> 
-<h4 align="center">Machine Learning & Computer Vision Engineer | Perception & Sensor Fusion | MSc AI for Engineering @ University of Sheffield</h4>
+<img src="banner.svg" alt="Nazrin Atayeva: iOS engineer building AI and perception systems" width="100%"/>
+<h4 align="center">iOS engineer with 3+ years shipping production banking and telecom apps, and an MSc in AI for Engineering from the University of Sheffield. I work across three layers of an intelligent product: the app people use, the agent that reasons, and the model that sees.</h4>
 
 <br>
 <h3>🔬 Perception & Computer Vision</h3>
