@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330">
+  <style>
+    .rise { animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .3s; } .d3 { animation-delay: .45s; } .d4 { animation-delay: .6s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .rise { animation: none; } }
+    .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  </style>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#161a21" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="16" fill="#0b0d11"/>
+  <rect width="1200" height="330" rx="16" fill="url(#grid)"/>
+
+  <g class="rise d1 sans" text-anchor="middle">
+    <text x="600" y="62" font-size="20" fill="#9aa3b2"><tspan font-weight="700" fill="#f3f4f6">iOS engineer</tspan> with 3+ years shipping production banking &amp; telecom apps</text>
+    <text x="600" y="94" font-size="20" fill="#9aa3b2"><tspan font-weight="700" fill="#f3f4f6">MSc AI for Engineering</tspan> · University of Sheffield</text>
+  </g>
+  <text class="rise d1 mono" x="600" y="140" text-anchor="middle" font-size="13" letter-spacing="3" fill="#7d8594">I WORK ACROSS THREE LAYERS OF AN INTELLIGENT PRODUCT</text>
+
+  <!-- cards -->
+  <g class="rise d2">
+    <rect x="56" y="166" width="349" height="128" rx="12" fill="#12151b" stroke="#262b35"/>
+    <rect x="76" y="186" width="32" height="4" rx="2" fill="#b56cff"/>
+    <text class="mono" x="118" y="191" font-size="12" letter-spacing="2" fill="#b56cff">S1 · iOS</text>
+    <text class="sans" x="76" y="230" font-size="22" font-weight="700" fill="#f3f4f6">The app people use</text>
+    <text class="sans" x="76" y="266" font-size="15" fill="#9aa3b2">iOS · 1M+ users · zero rollbacks</text>
+  </g>
+  <g class="rise d3">
+    <rect x="425" y="166" width="350" height="128" rx="12" fill="#12151b" stroke="#262b35"/>
+    <rect x="445" y="186" width="32" height="4" rx="2" fill="#2ee07a"/>
+    <text class="mono" x="487" y="191" font-size="12" letter-spacing="2" fill="#2ee07a">S2 · AI AGENTS</text>
+    <text class="sans" x="445" y="230" font-size="22" font-weight="700" fill="#f3f4f6">The agent that reasons</text>
+    <text class="sans" x="445" y="266" font-size="15" fill="#9aa3b2">LLM agents · tools · guardrails</text>
+  </g>
+  <g class="rise d4">
+    <rect x="795" y="166" width="349" height="128" rx="12" fill="#12151b" stroke="#262b35"/>
+    <rect x="815" y="186" width="32" height="4" rx="2" fill="#f5c518"/>
+    <text class="mono" x="857" y="191" font-size="12" letter-spacing="2" fill="#f5c518">S3 · PERCEPTION</text>
+    <text class="sans" x="815" y="230" font-size="22" font-weight="700" fill="#f3f4f6">The model that sees</text>
+    <text class="sans" x="815" y="258" font-size="15" fill="#9aa3b2">3D perception · sensor fusion</text>
+    <text class="sans" x="815" y="280" font-size="15" fill="#9aa3b2">Visual Geometry on ADAS</text>
+  </g>
+</svg>
